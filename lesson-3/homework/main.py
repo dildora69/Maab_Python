@@ -130,6 +130,12 @@
 
 # 15. Reverse a Tuple
 # Create a tuple of words and print it in reverse order.
-words = ("apple", "banana", "chocolate", "elephant", "guitar", "ocean", "puzzle", "sunshine", "tiger", "whisper")
+# words = ("apple", "banana", "chocolate", "elephant", "guitar", "ocean", "puzzle", "sunshine", "tiger", "whisper")
+#
+# print(words[::-1])
 
-print(words[::-1])
+# Write a Python script to concatenate the following dictionaries to create a new one.
+
+
+
+
