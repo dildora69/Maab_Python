@@ -1,0 +1,67 @@
+
+
+
+{
+    "students": [
+      {
+        "id": 1,
+        "name": "Nodir",
+        "age": 27,
+        "pets": [
+          "dog",
+          "cat",
+          "fish"
+        ],
+        "familymemebers": [
+          {
+            "id": 1,
+            "age": 25,
+            "name": "alex",
+            "relative": "Brother"
+          },
+          {
+            "id": 2,
+            "age": 21,
+            "name": "sara",
+            "relative": "Sister"
+          },
+          {
+            "id": 3,
+            "age": 22,
+            "name": "Hamzahon",
+            "relative": "Uncle"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Nodir",
+        "age": 27,
+        "pets": [
+          "dog",
+          "cat",
+          "fish"
+        ],
+        "familymemebers": [
+          {
+            "id": 1,
+            "age": 25,
+            "name": "alex",
+            "relative": "Brother"
+          },
+          {
+            "id": 2,
+            "age": 21,
+            "name": "sara",
+            "relative": "Sister"
+          },
+          {
+            "id": 3,
+            "age": 22,
+            "name": "Hamzahon",
+            "relative": "Uncle"
+          }
+        ]
+      }
+    ]
+  }
