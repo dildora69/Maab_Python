@@ -53,3 +53,36 @@ import numpy as np
 # arr = np.random.rand(10, 10)
 # print("Min:", arr.min())
 # print("Max:", arr.max())
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

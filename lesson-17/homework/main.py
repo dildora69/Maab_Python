@@ -1,4 +1,3 @@
-
 import pandas as pd
 import numpy as np
 
@@ -33,33 +32,33 @@ import numpy as np
 # print(df.describe())
 
 
-
 # 2
 
-import pandas as pd
+# import pandas as pd
+#
+# # Create DataFrame
+# data = {
+#     'Category': ['Rent', 'Utilities', 'Groceries', 'Entertainment'],
+#     'January': [1200, 200, 300, 150],
+#     'February': [1300, 220, 320, 160],
+#     'March': [1400, 240, 330, 170],
+#     'April': [1500, 250, 350, 180]
+# }
+#
+# expenses = pd.DataFrame(data)
+#
+# # Set 'Category' as index
+# expenses = expenses.set_index('Category')
+#
+# # Max per category
+# print("Maximum expense per category:")
+# print(expenses.max(axis=1))
+#
+# # Min per category
+# print("Minimum expense per category:")
+# print(expenses.min(axis=1))
+#
+# # Average per category
+# print("Average expense per category:")
+# print(expenses.mean(axis=1))
 
-# Create DataFrame
-data = {
-    'Category': ['Rent', 'Utilities', 'Groceries', 'Entertainment'],
-    'January': [1200, 200, 300, 150],
-    'February': [1300, 220, 320, 160],
-    'March': [1400, 240, 330, 170],
-    'April': [1500, 250, 350, 180]
-}
-
-expenses = pd.DataFrame(data)
-
-# Set 'Category' as index
-expenses = expenses.set_index('Category')
-
-# Max per category
-print("Maximum expense per category:")
-print(expenses.max(axis=1))
-
-# Min per category
-print("Minimum expense per category:")
-print(expenses.min(axis=1))
-
-# Average per category
-print("Average expense per category:")
-print(expenses.mean(axis=1))
